@@ -18,4 +18,8 @@ Frear           | 2
 Acelerar        | 3
 Nenhuma ação    | 4
 
-A opção 'nenhuma ação' é necessária para que o carro continue executando a ação atual.
+A opção 'nenhuma ação' é necessária para que o carro continue executando a ação anterior.
+
+## Agentes
+
+Após os treinamentos, os agentes e os resultados serão compartilhados aqui
